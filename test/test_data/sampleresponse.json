@@ -1,0 +1,3881 @@
+{
+  "cod": "200",
+  "calctime": 0.0035,
+  "cnt": 123,
+  "list": [
+    {
+      "id": 5563397,
+      "name": "Eureka",
+      "coord": {
+        "lon": -124.163673,
+        "lat": 40.802071
+      },
+      "main": {
+        "temp": 15.5,
+        "pressure": 1022,
+        "humidity": 72,
+        "temp_min": 15,
+        "temp_max": 16
+      },
+      "dt": 1464306163,
+      "wind": {
+        "speed": 8.7,
+        "deg": 330,
+        "gust": 11.8
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5558953,
+      "name": "Arcata",
+      "coord": {
+        "lon": -124.08284,
+        "lat": 40.86652
+      },
+      "main": {
+        "temp": 15,
+        "pressure": 1022,
+        "humidity": 72,
+        "temp_min": 15,
+        "temp_max": 15
+      },
+      "dt": 1464306162,
+      "wind": {
+        "speed": 8.7,
+        "deg": 330,
+        "gust": 11.8
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5392528,
+      "name": "San Pedro",
+      "coord": {
+        "lon": -118.29229,
+        "lat": 33.735851
+      },
+      "main": {
+        "temp": 22.03,
+        "pressure": 1016,
+        "humidity": 52,
+        "temp_min": 16.67,
+        "temp_max": 26.67
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 3.6,
+        "deg": 220
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5376890,
+      "name": "Newport Beach",
+      "coord": {
+        "lon": -117.928947,
+        "lat": 33.618912
+      },
+      "main": {
+        "temp": 22.18,
+        "pressure": 1016,
+        "humidity": 52,
+        "temp_min": 18,
+        "temp_max": 26
+      },
+      "dt": 1464306147,
+      "wind": {
+        "speed": 4.6,
+        "deg": 230,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5392900,
+      "name": "Santa Ana",
+      "coord": {
+        "lon": -117.867828,
+        "lat": 33.745571
+      },
+      "main": {
+        "temp": 22.04,
+        "pressure": 1016,
+        "humidity": 52,
+        "temp_min": 16.67,
+        "temp_max": 26
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 4.6,
+        "deg": 230,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5359777,
+      "name": "Irvine",
+      "coord": {
+        "lon": -117.823112,
+        "lat": 33.66946
+      },
+      "main": {
+        "temp": 22.55,
+        "pressure": 1016,
+        "humidity": 52,
+        "temp_min": 18.33,
+        "temp_max": 26
+      },
+      "dt": 1464306140,
+      "wind": {
+        "speed": 4.6,
+        "deg": 230,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5391791,
+      "name": "San Clemente",
+      "coord": {
+        "lon": -117.611992,
+        "lat": 33.426971
+      },
+      "main": {
+        "temp": 22.47,
+        "pressure": 1015,
+        "humidity": 49,
+        "temp_min": 20,
+        "temp_max": 24
+      },
+      "dt": 1464306153,
+      "wind": {
+        "speed": 6.2,
+        "deg": 280,
+        "gust": 10.3
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5364514,
+      "name": "Lake Forest",
+      "coord": {
+        "lon": -117.689217,
+        "lat": 33.646969
+      },
+      "main": {
+        "temp": 22.5,
+        "pressure": 1016,
+        "humidity": 52,
+        "temp_min": 18,
+        "temp_max": 26
+      },
+      "dt": 1464306141,
+      "wind": {
+        "speed": 4.6,
+        "deg": 230,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5373763,
+      "name": "Mission Viejo",
+      "coord": {
+        "lon": -117.671997,
+        "lat": 33.600021
+      },
+      "main": {
+        "temp": 22.82,
+        "pressure": 1016,
+        "humidity": 52,
+        "temp_min": 20,
+        "temp_max": 26
+      },
+      "dt": 1464306146,
+      "wind": {
+        "speed": 4.6,
+        "deg": 230,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5397018,
+      "name": "Soledad",
+      "coord": {
+        "lon": -121.326317,
+        "lat": 36.42469
+      },
+      "main": {
+        "temp": 15.93,
+        "pressure": 1019,
+        "humidity": 72,
+        "temp_min": 14,
+        "temp_max": 19
+      },
+      "dt": 1464306155,
+      "wind": {
+        "speed": 6.7,
+        "deg": 260
+      },
+      "rain": {
+        "3h": 0
+      },
+      "clouds": {
+        "all": 90
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5391959,
+      "name": "San Francisco",
+      "coord": {
+        "lon": -122.419418,
+        "lat": 37.774929
+      },
+      "main": {
+        "temp": 21.98,
+        "pressure": 1020,
+        "humidity": 87,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306153,
+      "wind": {
+        "speed": 3.6,
+        "deg": 310
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5404476,
+      "name": "Ukiah",
+      "coord": {
+        "lon": -123.207779,
+        "lat": 39.150169
+      },
+      "main": {
+        "temp": 27,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 27,
+        "temp_max": 27
+      },
+      "dt": 1464306156,
+      "wind": {
+        "speed": 4.6,
+        "deg": 270
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5393287,
+      "name": "Santa Rosa",
+      "coord": {
+        "lon": -122.714432,
+        "lat": 38.440472
+      },
+      "main": {
+        "temp": 24.33,
+        "pressure": 1016,
+        "humidity": 44,
+        "temp_min": 17.22,
+        "temp_max": 29
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 4.6,
+        "deg": 180
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5410004,
+      "name": "Windsor",
+      "coord": {
+        "lon": -122.816383,
+        "lat": 38.547131
+      },
+      "main": {
+        "temp": 23.23,
+        "pressure": 1016,
+        "humidity": 46,
+        "temp_min": 21,
+        "temp_max": 25
+      },
+      "dt": 1464306157,
+      "wind": {
+        "speed": 7.2,
+        "deg": 240
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5392567,
+      "name": "San Rafael",
+      "coord": {
+        "lon": -122.53109,
+        "lat": 37.97353
+      },
+      "main": {
+        "temp": 23.03,
+        "pressure": 1016,
+        "humidity": 46,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 7.2,
+        "deg": 240
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5378044,
+      "name": "Novato",
+      "coord": {
+        "lon": -122.569702,
+        "lat": 38.107422
+      },
+      "main": {
+        "temp": 23.42,
+        "pressure": 1016,
+        "humidity": 47,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306148,
+      "wind": {
+        "speed": 8.2,
+        "deg": 250,
+        "gust": 9.8
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5382232,
+      "name": "Petaluma",
+      "coord": {
+        "lon": -122.63665,
+        "lat": 38.232422
+      },
+      "main": {
+        "temp": 24.16,
+        "pressure": 1016,
+        "humidity": 46,
+        "temp_min": 17.22,
+        "temp_max": 30
+      },
+      "dt": 1464306150,
+      "wind": {
+        "speed": 7.2,
+        "deg": 240
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5337908,
+      "name": "Clearlake",
+      "coord": {
+        "lon": -122.626373,
+        "lat": 38.958229
+      },
+      "main": {
+        "temp": 25.9,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 23.33,
+        "temp_max": 28.89
+      },
+      "dt": 1464306134,
+      "wind": {
+        "speed": 4.6,
+        "deg": 270
+      },
+      "rain": {
+        "3h": 0
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5393052,
+      "name": "Santa Cruz",
+      "coord": {
+        "lon": -122.0308,
+        "lat": 36.974121
+      },
+      "main": {
+        "temp": 19.9,
+        "pressure": 1019,
+        "humidity": 72,
+        "temp_min": 14,
+        "temp_max": 27
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 4.6,
+        "deg": 210
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5394136,
+      "name": "Seaside",
+      "coord": {
+        "lon": -121.851624,
+        "lat": 36.611069
+      },
+      "main": {
+        "temp": 17.58,
+        "pressure": 1019,
+        "humidity": 72,
+        "temp_min": 14,
+        "temp_max": 23.33
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 6.7,
+        "deg": 260
+      },
+      "clouds": {
+        "all": 90
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5391295,
+      "name": "Salinas",
+      "coord": {
+        "lon": -121.655502,
+        "lat": 36.677738
+      },
+      "main": {
+        "temp": 18.55,
+        "pressure": 1019,
+        "humidity": 72,
+        "temp_min": 14,
+        "temp_max": 23.33
+      },
+      "dt": 1464306152,
+      "wind": {
+        "speed": 6.7,
+        "deg": 260
+      },
+      "clouds": {
+        "all": 90
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5407529,
+      "name": "Watsonville",
+      "coord": {
+        "lon": -121.756889,
+        "lat": 36.910229
+      },
+      "main": {
+        "temp": 19.96,
+        "pressure": 1019,
+        "humidity": 72,
+        "temp_min": 14,
+        "temp_max": 27
+      },
+      "dt": 1464306157,
+      "wind": {
+        "speed": 4.6,
+        "deg": 210
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5368518,
+      "name": "Los Gatos",
+      "coord": {
+        "lon": -121.974678,
+        "lat": 37.226608
+      },
+      "main": {
+        "temp": 20.53,
+        "pressure": 1020,
+        "humidity": 87,
+        "temp_min": 14,
+        "temp_max": 26.8
+      },
+      "dt": 1464306143,
+      "wind": {
+        "speed": 3.6,
+        "deg": 310
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5374764,
+      "name": "Morgan Hill",
+      "coord": {
+        "lon": -121.654388,
+        "lat": 37.130501
+      },
+      "main": {
+        "temp": 21.18,
+        "pressure": 1017,
+        "humidity": 53,
+        "temp_min": 14,
+        "temp_max": 27.78
+      },
+      "dt": 1464306147,
+      "wind": {
+        "speed": 5.1,
+        "deg": 200
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5386834,
+      "name": "Redwood City",
+      "coord": {
+        "lon": -122.236351,
+        "lat": 37.485222
+      },
+      "main": {
+        "temp": 22.42,
+        "pressure": 1020,
+        "humidity": 87,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306151,
+      "wind": {
+        "speed": 3.6,
+        "deg": 310
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5378538,
+      "name": "Oakland",
+      "coord": {
+        "lon": -122.270798,
+        "lat": 37.804371
+      },
+      "main": {
+        "temp": 22.89,
+        "pressure": 1020,
+        "humidity": 87,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306148,
+      "wind": {
+        "speed": 3.6,
+        "deg": 310
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5327684,
+      "name": "Berkeley",
+      "coord": {
+        "lon": -122.272751,
+        "lat": 37.87159
+      },
+      "main": {
+        "temp": 22.74,
+        "pressure": 1008,
+        "humidity": 74,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306132,
+      "wind": {
+        "speed": 5.7,
+        "deg": 360
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5392171,
+      "name": "San Jose",
+      "coord": {
+        "lon": -121.894958,
+        "lat": 37.33939
+      },
+      "main": {
+        "temp": 20.56,
+        "pressure": 1017,
+        "humidity": 46,
+        "temp_min": 14,
+        "temp_max": 26.7
+      },
+      "dt": 1464306153,
+      "wind": {
+        "speed": 6.7,
+        "deg": 320
+      },
+      "rain": {
+        "1h": 2.03
+      },
+      "clouds": {
+        "all": 5
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        },
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5323566,
+      "name": "Alum Rock",
+      "coord": {
+        "lon": -121.827179,
+        "lat": 37.366051
+      },
+      "main": {
+        "temp": 20.98,
+        "pressure": 1017,
+        "humidity": 46,
+        "temp_min": 16,
+        "temp_max": 26.8
+      },
+      "dt": 1464306117,
+      "wind": {
+        "speed": 6.7,
+        "deg": 320
+      },
+      "rain": {
+        "1h": 2.03
+      },
+      "clouds": {
+        "all": 5
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 5350734,
+      "name": "Fremont",
+      "coord": {
+        "lon": -121.988571,
+        "lat": 37.548271
+      },
+      "main": {
+        "temp": 22.45,
+        "pressure": 1017,
+        "humidity": 59,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306138,
+      "wind": {
+        "speed": 6.2,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5392593,
+      "name": "San Ramon",
+      "coord": {
+        "lon": -121.97802,
+        "lat": 37.77993
+      },
+      "main": {
+        "temp": 23.13,
+        "pressure": 1017,
+        "humidity": 59,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 6.2,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5367440,
+      "name": "Livermore",
+      "coord": {
+        "lon": -121.768013,
+        "lat": 37.68187
+      },
+      "main": {
+        "temp": 22.89,
+        "pressure": 1020,
+        "humidity": 87,
+        "temp_min": 14,
+        "temp_max": 30
+      },
+      "dt": 1464306142,
+      "wind": {
+        "speed": 3.6,
+        "deg": 310
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ]
+    },
+    {
+      "id": 5330642,
+      "name": "Brentwood",
+      "coord": {
+        "lon": -121.725769,
+        "lat": 37.926868
+      },
+      "main": {
+        "temp": 24.72,
+        "pressure": 1016,
+        "humidity": 39,
+        "temp_min": 17.22,
+        "temp_max": 30
+      },
+      "dt": 1464306132,
+      "wind": {
+        "speed": 7.2,
+        "deg": 290
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5357499,
+      "name": "Hollister",
+      "coord": {
+        "lon": -121.401604,
+        "lat": 36.852451
+      },
+      "main": {
+        "temp": 21.18,
+        "pressure": 1018,
+        "humidity": 56,
+        "temp_min": 14,
+        "temp_max": 28.33
+      },
+      "dt": 1464306140,
+      "wind": {
+        "speed": 9.8,
+        "deg": 260
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5352214,
+      "name": "Gilroy",
+      "coord": {
+        "lon": -121.568283,
+        "lat": 37.005779
+      },
+      "main": {
+        "temp": 21.35,
+        "pressure": 1018,
+        "humidity": 63,
+        "temp_min": 14,
+        "temp_max": 27.78
+      },
+      "dt": 1464306139,
+      "wind": {
+        "speed": 9.8,
+        "deg": 250
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5403191,
+      "name": "Tracy",
+      "coord": {
+        "lon": -121.425217,
+        "lat": 37.739651
+      },
+      "main": {
+        "temp": 25.86,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 19.44,
+        "temp_max": 29
+      },
+      "dt": 1464306155,
+      "wind": {
+        "speed": 3.1,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5399020,
+      "name": "Stockton",
+      "coord": {
+        "lon": -121.290779,
+        "lat": 37.957699
+      },
+      "main": {
+        "temp": 27.86,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 26,
+        "temp_max": 29
+      },
+      "dt": 1464306155,
+      "wind": {
+        "speed": 3.1,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5381515,
+      "name": "Patterson",
+      "coord": {
+        "lon": -121.129662,
+        "lat": 37.4716
+      },
+      "main": {
+        "temp": 26.89,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 20,
+        "temp_max": 30.56
+      },
+      "dt": 1464306149,
+      "wind": {
+        "speed": 2.01,
+        "deg": 290.001
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5335650,
+      "name": "Ceres",
+      "coord": {
+        "lon": -120.95771,
+        "lat": 37.594929
+      },
+      "main": {
+        "temp": 27.8,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 22,
+        "temp_max": 30.56
+      },
+      "dt": 1464306133,
+      "wind": {
+        "speed": 5.08,
+        "deg": 303.001
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5370164,
+      "name": "Manteca",
+      "coord": {
+        "lon": -121.216049,
+        "lat": 37.797428
+      },
+      "main": {
+        "temp": 27.98,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 24.7,
+        "temp_max": 30.56
+      },
+      "dt": 1464306146,
+      "wind": {
+        "speed": 3.1,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5373900,
+      "name": "Modesto",
+      "coord": {
+        "lon": -120.99688,
+        "lat": 37.639099
+      },
+      "main": {
+        "temp": 28.68,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 27,
+        "temp_max": 30.56
+      },
+      "dt": 1464306146,
+      "wind": {
+        "speed": 4.66,
+        "deg": 314.501
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5405380,
+      "name": "Vallejo",
+      "coord": {
+        "lon": -122.256638,
+        "lat": 38.104092
+      },
+      "main": {
+        "temp": 23.59,
+        "pressure": 1016,
+        "humidity": 46,
+        "temp_min": 14.44,
+        "temp_max": 30
+      },
+      "dt": 1464306156,
+      "wind": {
+        "speed": 7.2,
+        "deg": 240
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5323694,
+      "name": "American Canyon",
+      "coord": {
+        "lon": -122.260803,
+        "lat": 38.174919
+      },
+      "main": {
+        "temp": 24.16,
+        "pressure": 1014,
+        "humidity": 51,
+        "temp_min": 17.22,
+        "temp_max": 30
+      },
+      "dt": 1464306117,
+      "wind": {
+        "speed": 2.1,
+        "deg": 120,
+        "var_beg": 80,
+        "var_end": 150
+      },
+      "clouds": {
+        "all": 40
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 5376095,
+      "name": "Napa",
+      "coord": {
+        "lon": -122.28553,
+        "lat": 38.297138
+      },
+      "main": {
+        "temp": 25.05,
+        "pressure": 1016,
+        "humidity": 56,
+        "temp_min": 17.22,
+        "temp_max": 30
+      },
+      "dt": 1464306147,
+      "wind": {
+        "speed": 7.7,
+        "deg": 200
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5339111,
+      "name": "Concord",
+      "coord": {
+        "lon": -122.031067,
+        "lat": 37.977982
+      },
+      "main": {
+        "temp": 23.54,
+        "pressure": 1016,
+        "humidity": 34,
+        "temp_min": 17.22,
+        "temp_max": 30
+      },
+      "dt": 1464306135,
+      "wind": {
+        "speed": 5.1,
+        "deg": 250
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5347335,
+      "name": "Fairfield",
+      "coord": {
+        "lon": -122.03997,
+        "lat": 38.249359
+      },
+      "main": {
+        "temp": 24.88,
+        "pressure": 1016,
+        "humidity": 46,
+        "temp_min": 17.22,
+        "temp_max": 30
+      },
+      "dt": 1464306138,
+      "wind": {
+        "speed": 7.2,
+        "deg": 240
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5324200,
+      "name": "Antioch",
+      "coord": {
+        "lon": -121.805794,
+        "lat": 38.004921
+      },
+      "main": {
+        "temp": 24.81,
+        "pressure": 1016,
+        "humidity": 34,
+        "temp_min": 17.22,
+        "temp_max": 30
+      },
+      "dt": 1464306117,
+      "wind": {
+        "speed": 5.1,
+        "deg": 250
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5341704,
+      "name": "Davis",
+      "coord": {
+        "lon": -121.740517,
+        "lat": 38.54491
+      },
+      "main": {
+        "temp": 27.39,
+        "pressure": 1015,
+        "humidity": 28,
+        "temp_min": 22,
+        "temp_max": 31.11
+      },
+      "dt": 1464306136,
+      "wind": {
+        "speed": 2.1,
+        "deg": 220
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5410430,
+      "name": "Woodland",
+      "coord": {
+        "lon": -121.7733,
+        "lat": 38.67852
+      },
+      "main": {
+        "temp": 27.45,
+        "pressure": 1015,
+        "humidity": 28,
+        "temp_min": 23.89,
+        "temp_max": 31.11
+      },
+      "dt": 1464306158,
+      "wind": {
+        "speed": 2.1,
+        "deg": 220
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5389489,
+      "name": "Sacramento",
+      "coord": {
+        "lon": -121.4944,
+        "lat": 38.58157
+      },
+      "main": {
+        "temp": 27.49,
+        "pressure": 1015,
+        "humidity": 28,
+        "temp_min": 23.89,
+        "temp_max": 31.11
+      },
+      "dt": 1464306152,
+      "wind": {
+        "speed": 2.1,
+        "deg": 220
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5346111,
+      "name": "Elk Grove",
+      "coord": {
+        "lon": -121.37162,
+        "lat": 38.408798
+      },
+      "main": {
+        "temp": 28.16,
+        "pressure": 1014,
+        "humidity": 37,
+        "temp_min": 26.11,
+        "temp_max": 29.44
+      },
+      "dt": 1464306137,
+      "wind": {
+        "speed": 4.6,
+        "deg": 200
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5367565,
+      "name": "Lodi",
+      "coord": {
+        "lon": -121.272453,
+        "lat": 38.130199
+      },
+      "main": {
+        "temp": 28.6,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 27,
+        "temp_max": 31.11
+      },
+      "dt": 1464306142,
+      "wind": {
+        "speed": 3.1,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5333282,
+      "name": "Cameron Park",
+      "coord": {
+        "lon": -120.98716,
+        "lat": 38.668789
+      },
+      "main": {
+        "temp": 27.17,
+        "pressure": 1017,
+        "humidity": 47,
+        "temp_min": 21,
+        "temp_max": 31.11
+      },
+      "dt": 1464306133,
+      "wind": {
+        "speed": 3.6,
+        "deg": 280,
+        "gust": 7.2
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5366375,
+      "name": "Lincoln",
+      "coord": {
+        "lon": -121.293007,
+        "lat": 38.89156
+      },
+      "main": {
+        "temp": 27.91,
+        "pressure": 1017,
+        "humidity": 47,
+        "temp_min": 24,
+        "temp_max": 31.11
+      },
+      "dt": 1464306142,
+      "wind": {
+        "speed": 3.6,
+        "deg": 280,
+        "gust": 7.2
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5411015,
+      "name": "Yuba City",
+      "coord": {
+        "lon": -121.616913,
+        "lat": 39.14045
+      },
+      "main": {
+        "temp": 27.91,
+        "pressure": 1014,
+        "humidity": 32,
+        "temp_min": 24,
+        "temp_max": 30
+      },
+      "dt": 1464306158,
+      "wind": {
+        "speed": 2.01,
+        "deg": 244.001
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5388881,
+      "name": "Roseville",
+      "coord": {
+        "lon": -121.28801,
+        "lat": 38.752121
+      },
+      "main": {
+        "temp": 27.12,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 22,
+        "temp_max": 31.11
+      },
+      "dt": 1464306151,
+      "wind": {
+        "speed": 3.1,
+        "deg": 240
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5345679,
+      "name": "El Dorado Hills",
+      "coord": {
+        "lon": -121.082169,
+        "lat": 38.685741
+      },
+      "main": {
+        "temp": 27.17,
+        "pressure": 1017,
+        "humidity": 47,
+        "temp_min": 21,
+        "temp_max": 31.11
+      },
+      "dt": 1464306137,
+      "wind": {
+        "speed": 3.6,
+        "deg": 280,
+        "gust": 7.2
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5324802,
+      "name": "Arroyo Grande",
+      "coord": {
+        "lon": -120.590729,
+        "lat": 35.118591
+      },
+      "main": {
+        "temp": 18.84,
+        "pressure": 1018,
+        "humidity": 59,
+        "temp_min": 16,
+        "temp_max": 24
+      },
+      "dt": 1464306117,
+      "wind": {
+        "speed": 9.8,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5367788,
+      "name": "Lompoc",
+      "coord": {
+        "lon": -120.457939,
+        "lat": 34.639149
+      },
+      "main": {
+        "temp": 18.69,
+        "pressure": 1018,
+        "humidity": 63,
+        "temp_min": 16,
+        "temp_max": 21
+      },
+      "dt": 1464306143,
+      "wind": {
+        "speed": 7.7,
+        "deg": 300,
+        "gust": 11.8
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5393180,
+      "name": "Santa Maria",
+      "coord": {
+        "lon": -120.435722,
+        "lat": 34.95303
+      },
+      "main": {
+        "temp": 18.21,
+        "pressure": 1018,
+        "humidity": 63,
+        "temp_min": 16,
+        "temp_max": 21
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 7.7,
+        "deg": 300,
+        "gust": 11.8
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5392952,
+      "name": "Santa Barbara",
+      "coord": {
+        "lon": -119.698189,
+        "lat": 34.42083
+      },
+      "main": {
+        "temp": 19.05,
+        "pressure": 1015,
+        "humidity": 52,
+        "temp_min": 16.11,
+        "temp_max": 21.11
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 3.1,
+        "deg": 250
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5392323,
+      "name": "San Luis Obispo",
+      "coord": {
+        "lon": -120.659622,
+        "lat": 35.282749
+      },
+      "main": {
+        "temp": 20.02,
+        "pressure": 1018,
+        "humidity": 59,
+        "temp_min": 17,
+        "temp_max": 24
+      },
+      "dt": 1464306153,
+      "wind": {
+        "speed": 9.8,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5325111,
+      "name": "Atascadero",
+      "coord": {
+        "lon": -120.670731,
+        "lat": 35.489422
+      },
+      "main": {
+        "temp": 21.48,
+        "pressure": 1016,
+        "humidity": 36,
+        "temp_min": 19,
+        "temp_max": 24
+      },
+      "dt": 1464306124,
+      "wind": {
+        "speed": 7.2,
+        "deg": 220,
+        "gust": 10.8
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5381438,
+      "name": "Paso Robles",
+      "coord": {
+        "lon": -120.691002,
+        "lat": 35.62664
+      },
+      "main": {
+        "temp": 26.03,
+        "pressure": 1016,
+        "humidity": 36,
+        "temp_min": 19,
+        "temp_max": 30
+      },
+      "dt": 1464306149,
+      "wind": {
+        "speed": 7.2,
+        "deg": 220,
+        "gust": 10.8
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5325327,
+      "name": "Avenal",
+      "coord": {
+        "lon": -120.129028,
+        "lat": 36.00412
+      },
+      "main": {
+        "temp": 28.58,
+        "pressure": 1015,
+        "humidity": 25,
+        "temp_min": 26.67,
+        "temp_max": 30
+      },
+      "dt": 1464306125,
+      "wind": {
+        "speed": 4.1,
+        "deg": 320,
+        "gust": 8.2
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5339539,
+      "name": "Corcoran",
+      "coord": {
+        "lon": -119.560402,
+        "lat": 36.098011
+      },
+      "main": {
+        "temp": 27.91,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 26.67,
+        "temp_max": 29.44
+      },
+      "dt": 1464306135,
+      "wind": {
+        "speed": 2.58,
+        "deg": 317.501
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5365918,
+      "name": "Lemoore",
+      "coord": {
+        "lon": -119.782913,
+        "lat": 36.300781
+      },
+      "main": {
+        "temp": 28.17,
+        "pressure": 1015,
+        "humidity": 25,
+        "temp_min": 27,
+        "temp_max": 30
+      },
+      "dt": 1464306142,
+      "wind": {
+        "speed": 4.1,
+        "deg": 320,
+        "gust": 8.2
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5355180,
+      "name": "Hanford",
+      "coord": {
+        "lon": -119.645683,
+        "lat": 36.32745
+      },
+      "main": {
+        "temp": 27.98,
+        "pressure": 1015,
+        "humidity": 34,
+        "temp_min": 27,
+        "temp_max": 30
+      },
+      "dt": 1464306139,
+      "wind": {
+        "speed": 4.6,
+        "deg": 330
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5384339,
+      "name": "Port Hueneme",
+      "coord": {
+        "lon": -119.195107,
+        "lat": 34.147781
+      },
+      "main": {
+        "temp": 20.84,
+        "pressure": 1017,
+        "humidity": 68,
+        "temp_min": 16.11,
+        "temp_max": 26.67
+      },
+      "dt": 1464306150,
+      "wind": {
+        "speed": 8.7,
+        "deg": 260
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5380184,
+      "name": "Oxnard",
+      "coord": {
+        "lon": -119.177048,
+        "lat": 34.197498
+      },
+      "main": {
+        "temp": 20.56,
+        "pressure": 1016,
+        "humidity": 68,
+        "temp_min": 16.11,
+        "temp_max": 26.11
+      },
+      "dt": 1464306148,
+      "wind": {
+        "speed": 6.7,
+        "deg": 250
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5333180,
+      "name": "Camarillo",
+      "coord": {
+        "lon": -119.037598,
+        "lat": 34.216389
+      },
+      "main": {
+        "temp": 21.29,
+        "pressure": 1016,
+        "humidity": 56,
+        "temp_min": 16.11,
+        "temp_max": 26.67
+      },
+      "dt": 1464306133,
+      "wind": {
+        "speed": 6.7,
+        "deg": 230
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5402405,
+      "name": "Thousand Oaks",
+      "coord": {
+        "lon": -118.837593,
+        "lat": 34.170559
+      },
+      "main": {
+        "temp": 20.06,
+        "pressure": 1016,
+        "humidity": 56,
+        "temp_min": 16.11,
+        "temp_max": 24.44
+      },
+      "dt": 1464306155,
+      "wind": {
+        "speed": 6.7,
+        "deg": 230
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5396003,
+      "name": "Simi Valley",
+      "coord": {
+        "lon": -118.781479,
+        "lat": 34.269451
+      },
+      "main": {
+        "temp": 20.35,
+        "pressure": 1016,
+        "humidity": 56,
+        "temp_min": 16.11,
+        "temp_max": 26.11
+      },
+      "dt": 1464306155,
+      "wind": {
+        "speed": 6.7,
+        "deg": 230
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5393049,
+      "name": "Santa Clarita",
+      "coord": {
+        "lon": -118.542587,
+        "lat": 34.391659
+      },
+      "main": {
+        "temp": 22.37,
+        "pressure": 1019,
+        "humidity": 35,
+        "temp_min": 13.33,
+        "temp_max": 27.78
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 9.3,
+        "deg": 350,
+        "gust": 13.4
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5345860,
+      "name": "El Segundo",
+      "coord": {
+        "lon": -118.416473,
+        "lat": 33.919182
+      },
+      "main": {
+        "temp": 21.1,
+        "pressure": 1016,
+        "humidity": 68,
+        "temp_min": 16.67,
+        "temp_max": 24.44
+      },
+      "dt": 1464306137,
+      "wind": {
+        "speed": 8.2,
+        "deg": 270
+      },
+      "clouds": {
+        "all": 40
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 5357527,
+      "name": "Hollywood",
+      "coord": {
+        "lon": -118.326736,
+        "lat": 34.098339
+      },
+      "main": {
+        "temp": 22.16,
+        "pressure": 1016,
+        "humidity": 68,
+        "temp_min": 16.67,
+        "temp_max": 26.67
+      },
+      "dt": 1464306140,
+      "wind": {
+        "speed": 5.7,
+        "deg": 240,
+        "gust": 8.7
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5367929,
+      "name": "Long Beach",
+      "coord": {
+        "lon": -118.189232,
+        "lat": 33.76696
+      },
+      "main": {
+        "temp": 22.14,
+        "pressure": 1016,
+        "humidity": 52,
+        "temp_min": 16.67,
+        "temp_max": 26.67
+      },
+      "dt": 1464306143,
+      "wind": {
+        "speed": 3.6,
+        "deg": 220
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5368361,
+      "name": "Los Angeles",
+      "coord": {
+        "lon": -118.243683,
+        "lat": 34.052231
+      },
+      "main": {
+        "temp": 22.71,
+        "pressure": 1016,
+        "humidity": 60,
+        "temp_min": 18,
+        "temp_max": 27.22
+      },
+      "dt": 1464306143,
+      "wind": {
+        "speed": 7.2,
+        "deg": 260
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5344994,
+      "name": "East Los Angeles",
+      "coord": {
+        "lon": -118.17202,
+        "lat": 34.023899
+      },
+      "main": {
+        "temp": 22.22,
+        "pressure": 1016,
+        "humidity": 56,
+        "temp_min": 16.67,
+        "temp_max": 27.78
+      },
+      "dt": 1464306137,
+      "wind": {
+        "speed": 3.6,
+        "deg": 280
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5331835,
+      "name": "Burbank",
+      "coord": {
+        "lon": -118.308968,
+        "lat": 34.18084
+      },
+      "main": {
+        "temp": 22.33,
+        "pressure": 1015,
+        "humidity": 44,
+        "temp_min": 16.67,
+        "temp_max": 27
+      },
+      "dt": 1464306133,
+      "wind": {
+        "speed": 5.1,
+        "deg": 160
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5391945,
+      "name": "San Fernando",
+      "coord": {
+        "lon": -118.438972,
+        "lat": 34.281952
+      },
+      "main": {
+        "temp": 21.86,
+        "pressure": 1015,
+        "humidity": 44,
+        "temp_min": 16.67,
+        "temp_max": 27.22
+      },
+      "dt": 1464306153,
+      "wind": {
+        "speed": 5.1,
+        "deg": 160
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5377613,
+      "name": "North Glendale",
+      "coord": {
+        "lon": -118.264519,
+        "lat": 34.160561
+      },
+      "main": {
+        "temp": 22.59,
+        "pressure": 1015,
+        "humidity": 44,
+        "temp_min": 18,
+        "temp_max": 27
+      },
+      "dt": 1464306148,
+      "wind": {
+        "speed": 5.1,
+        "deg": 160
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5334799,
+      "name": "Castaic",
+      "coord": {
+        "lon": -118.622871,
+        "lat": 34.48888
+      },
+      "main": {
+        "temp": 21.7,
+        "pressure": 1019,
+        "humidity": 35,
+        "temp_min": 16.11,
+        "temp_max": 27.22
+      },
+      "dt": 1464306133,
+      "wind": {
+        "speed": 9.3,
+        "deg": 350,
+        "gust": 13.4
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5364940,
+      "name": "Lancaster",
+      "coord": {
+        "lon": -118.136742,
+        "lat": 34.69804
+      },
+      "main": {
+        "temp": 24.38,
+        "pressure": 1014,
+        "humidity": 21,
+        "temp_min": 19,
+        "temp_max": 29
+      },
+      "dt": 1464306142,
+      "wind": {
+        "speed": 7.7,
+        "deg": 250,
+        "gust": 11.3
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5388735,
+      "name": "Rosamond",
+      "coord": {
+        "lon": -118.163406,
+        "lat": 34.86414
+      },
+      "main": {
+        "temp": 25.16,
+        "pressure": 1012,
+        "humidity": 22,
+        "temp_min": 21,
+        "temp_max": 27.78
+      },
+      "dt": 1464306151,
+      "wind": {
+        "speed": 7.7,
+        "deg": 250,
+        "gust": 10.8
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5550368,
+      "name": "Wasco",
+      "coord": {
+        "lon": -119.34095,
+        "lat": 35.59412
+      },
+      "main": {
+        "temp": 26.8,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 26.11,
+        "temp_max": 27.22
+      },
+      "dt": 1464306162,
+      "wind": {
+        "speed": 4.6,
+        "deg": 300,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5342485,
+      "name": "Delano",
+      "coord": {
+        "lon": -119.247047,
+        "lat": 35.768841
+      },
+      "main": {
+        "temp": 26.89,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 26.11,
+        "temp_max": 27.22
+      },
+      "dt": 1464306136,
+      "wind": {
+        "speed": 2.6,
+        "deg": 340,
+        "gust": 8.2
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5325738,
+      "name": "Bakersfield",
+      "coord": {
+        "lon": -119.018707,
+        "lat": 35.373291
+      },
+      "main": {
+        "temp": 26.62,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 24.44,
+        "temp_max": 27.22
+      },
+      "dt": 1464306125,
+      "wind": {
+        "speed": 4.6,
+        "deg": 300,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5324903,
+      "name": "Arvin",
+      "coord": {
+        "lon": -118.82843,
+        "lat": 35.209129
+      },
+      "main": {
+        "temp": 25.63,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 21.11,
+        "temp_max": 27.22
+      },
+      "dt": 1464306117,
+      "wind": {
+        "speed": 4.6,
+        "deg": 300,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5343171,
+      "name": "Dinuba",
+      "coord": {
+        "lon": -119.38707,
+        "lat": 36.543282
+      },
+      "main": {
+        "temp": 20.91,
+        "pressure": 1015,
+        "humidity": 34,
+        "temp_min": 4.44,
+        "temp_max": 29
+      },
+      "dt": 1464306136,
+      "wind": {
+        "speed": 4.6,
+        "deg": 330
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5406567,
+      "name": "Visalia",
+      "coord": {
+        "lon": -119.292061,
+        "lat": 36.330231
+      },
+      "main": {
+        "temp": 21.73,
+        "pressure": 1015,
+        "humidity": 34,
+        "temp_min": 5,
+        "temp_max": 29.44
+      },
+      "dt": 1464306156,
+      "wind": {
+        "speed": 4.6,
+        "deg": 330
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5384471,
+      "name": "Porterville",
+      "coord": {
+        "lon": -119.016769,
+        "lat": 36.065231
+      },
+      "main": {
+        "temp": 23.68,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 8.89,
+        "temp_max": 29.44
+      },
+      "dt": 1464306150,
+      "wind": {
+        "speed": 2.6,
+        "deg": 340,
+        "gust": 8.2
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5368453,
+      "name": "Los Banos",
+      "coord": {
+        "lon": -120.849922,
+        "lat": 37.058281
+      },
+      "main": {
+        "temp": 25.49,
+        "pressure": 1018,
+        "humidity": 63,
+        "temp_min": 19,
+        "temp_max": 30.56
+      },
+      "dt": 1464306143,
+      "wind": {
+        "speed": 9.8,
+        "deg": 250
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5336667,
+      "name": "Chowchilla",
+      "coord": {
+        "lon": -120.260178,
+        "lat": 37.123001
+      },
+      "main": {
+        "temp": 28.29,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 27,
+        "temp_max": 30.56
+      },
+      "dt": 1464306134,
+      "wind": {
+        "speed": 3.6,
+        "deg": 290
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5404024,
+      "name": "Turlock",
+      "coord": {
+        "lon": -120.846588,
+        "lat": 37.494659
+      },
+      "main": {
+        "temp": 27.6,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 20,
+        "temp_max": 30.56
+      },
+      "dt": 1464306156,
+      "wind": {
+        "speed": 3.83,
+        "deg": 318.501
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5378500,
+      "name": "Oakdale",
+      "coord": {
+        "lon": -120.847153,
+        "lat": 37.76659
+      },
+      "main": {
+        "temp": 28.76,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 27,
+        "temp_max": 30.56
+      },
+      "dt": 1464306148,
+      "wind": {
+        "speed": 4.66,
+        "deg": 314.501
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5372253,
+      "name": "Merced",
+      "coord": {
+        "lon": -120.482971,
+        "lat": 37.302158
+      },
+      "main": {
+        "temp": 28.49,
+        "pressure": 1015,
+        "humidity": 34,
+        "temp_min": 27,
+        "temp_max": 30.56
+      },
+      "dt": 1464306146,
+      "wind": {
+        "speed": 4.1,
+        "deg": 310
+      },
+      "clouds": {
+        "all": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5369568,
+      "name": "Madera",
+      "coord": {
+        "lon": -120.060722,
+        "lat": 36.961342
+      },
+      "main": {
+        "temp": 25.93,
+        "pressure": 1015,
+        "humidity": 32,
+        "temp_min": 22.22,
+        "temp_max": 28
+      },
+      "dt": 1464306143,
+      "wind": {
+        "speed": 3.6,
+        "deg": 290
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5350937,
+      "name": "Fresno",
+      "coord": {
+        "lon": -119.772369,
+        "lat": 36.74773
+      },
+      "main": {
+        "temp": 27.65,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 27,
+        "temp_max": 29
+      },
+      "dt": 1464306139,
+      "wind": {
+        "speed": 3.96,
+        "deg": 320.501
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5392868,
+      "name": "Sanger",
+      "coord": {
+        "lon": -119.555969,
+        "lat": 36.708012
+      },
+      "main": {
+        "temp": 25.08,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 11.11,
+        "temp_max": 29
+      },
+      "dt": 1464306154,
+      "wind": {
+        "speed": 2.41,
+        "deg": 296.001
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5338122,
+      "name": "Clovis",
+      "coord": {
+        "lon": -119.702919,
+        "lat": 36.82523
+      },
+      "main": {
+        "temp": 27.81,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 27,
+        "temp_max": 29
+      },
+      "dt": 1464306135,
+      "wind": {
+        "speed": 3.96,
+        "deg": 320.501
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5338683,
+      "name": "Clovis",
+      "coord": {
+        "lon": -119.620689,
+        "lat": 36.866341
+      },
+      "main": {
+        "temp": 26.4,
+        "pressure": 1015,
+        "humidity": 30,
+        "temp_min": 22.22,
+        "temp_max": 28
+      },
+      "dt": 1464306135,
+      "wind": {
+        "speed": 2.41,
+        "deg": 296.001
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5397664,
+      "name": "South Lake Tahoe",
+      "coord": {
+        "lon": -119.984352,
+        "lat": 38.933239
+      },
+      "main": {
+        "temp": 18,
+        "pressure": 1020,
+        "humidity": 31,
+        "temp_min": 14.44,
+        "temp_max": 22
+      },
+      "dt": 1464306155,
+      "wind": {
+        "speed": 2.1,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5403676,
+      "name": "Truckee",
+      "coord": {
+        "lon": -120.18325,
+        "lat": 39.327961
+      },
+      "main": {
+        "temp": 18.24,
+        "pressure": 1020,
+        "temp_min": 15,
+        "temp_max": 22.78,
+        "humidity": 45
+      },
+      "dt": 1464306155,
+      "wind": {
+        "speed": 3.6,
+        "deg": 360
+      },
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5501344,
+      "name": "Carson City",
+      "coord": {
+        "lon": -119.767403,
+        "lat": 39.163799
+      },
+      "main": {
+        "temp": 17.19,
+        "pressure": 1018,
+        "humidity": 22,
+        "temp_min": 8.33,
+        "temp_max": 22.78
+      },
+      "dt": 1464306160,
+      "wind": {
+        "speed": 2.1,
+        "deg": 280
+      },
+      "clouds": {
+        "all": 40
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 5386984,
+      "name": "Reedley",
+      "coord": {
+        "lon": -119.450401,
+        "lat": 36.59634
+      },
+      "main": {
+        "temp": 20.12,
+        "pressure": 1015,
+        "humidity": 34,
+        "temp_min": 4.44,
+        "temp_max": 29
+      },
+      "dt": 1464306151,
+      "wind": {
+        "speed": 4.6,
+        "deg": 330
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5570160,
+      "name": "Redding",
+      "coord": {
+        "lon": -122.391678,
+        "lat": 40.58654
+      },
+      "main": {
+        "temp": 27.2,
+        "pressure": 1014,
+        "humidity": 14,
+        "temp_min": 23,
+        "temp_max": 30
+      },
+      "dt": 1464306163,
+      "wind": {
+        "speed": 1.5,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5336269,
+      "name": "Chico",
+      "coord": {
+        "lon": -121.837479,
+        "lat": 39.728489
+      },
+      "main": {
+        "temp": 28.38,
+        "pressure": 1015,
+        "humidity": 18,
+        "temp_min": 27,
+        "temp_max": 30
+      },
+      "dt": 1464306133,
+      "wind": {
+        "speed": 2.6,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5379759,
+      "name": "Oroville",
+      "coord": {
+        "lon": -121.556358,
+        "lat": 39.513779
+      },
+      "main": {
+        "temp": 28.02,
+        "pressure": 1015,
+        "humidity": 42,
+        "temp_min": 27,
+        "temp_max": 29
+      },
+      "dt": 1464306148,
+      "wind": {
+        "speed": 1.5,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5381002,
+      "name": "Paradise",
+      "coord": {
+        "lon": -121.621918,
+        "lat": 39.759609
+      },
+      "main": {
+        "temp": 27.5,
+        "pressure": 1015,
+        "humidity": 18,
+        "temp_min": 27,
+        "temp_max": 28
+      },
+      "dt": 1464306149,
+      "wind": {
+        "speed": 2.6,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5729080,
+      "name": "Grants Pass",
+      "coord": {
+        "lon": -123.328392,
+        "lat": 42.439011
+      },
+      "main": {
+        "temp": 21.37,
+        "pressure": 1021,
+        "humidity": 54,
+        "temp_min": 14,
+        "temp_max": 26.67
+      },
+      "dt": 1464306166,
+      "wind": {
+        "speed": 2.1,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5740099,
+      "name": "Medford",
+      "coord": {
+        "lon": -122.875587,
+        "lat": 42.326519
+      },
+      "main": {
+        "temp": 21.29,
+        "pressure": 1019,
+        "humidity": 28,
+        "temp_min": 14,
+        "temp_max": 26.67
+      },
+      "dt": 1464306166,
+      "wind": {
+        "speed": 4.6,
+        "deg": 330
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5711789,
+      "name": "Ashland",
+      "coord": {
+        "lon": -122.70948,
+        "lat": 42.19458
+      },
+      "main": {
+        "temp": 20.64,
+        "pressure": 1019,
+        "humidity": 28,
+        "temp_min": 14,
+        "temp_max": 25
+      },
+      "dt": 1464306165,
+      "wind": {
+        "speed": 4.6,
+        "deg": 330
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5735238,
+      "name": "Klamath Falls",
+      "coord": {
+        "lon": -121.78167,
+        "lat": 42.224869
+      },
+      "main": {
+        "temp": 21,
+        "pressure": 1018,
+        "humidity": 28,
+        "temp_min": 21,
+        "temp_max": 21
+      },
+      "dt": 1464306166,
+      "wind": {
+        "speed": 6.7,
+        "deg": 270,
+        "gust": 9.8
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5572400,
+      "name": "Susanville",
+      "coord": {
+        "lon": -120.653008,
+        "lat": 40.416279
+      },
+      "main": {
+        "temp": 16.67,
+        "humidity": 56,
+        "pressure": 1018,
+        "temp_min": 16.67,
+        "temp_max": 16.67
+      },
+      "dt": 1464306163,
+      "wind": {
+        "speed": 1.61,
+        "deg": 280.001
+      },
+      "rain": {
+        "3h": 0
+      },
+      "clouds": {
+        "all": 80
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 5511077,
+      "name": "Reno",
+      "coord": {
+        "lon": -119.813797,
+        "lat": 39.529629
+      },
+      "main": {
+        "temp": 18.97,
+        "pressure": 1018,
+        "temp_min": 15,
+        "temp_max": 22,
+        "humidity": 34
+      },
+      "dt": 1464306161,
+      "wind": {
+        "speed": 2.1,
+        "deg": 330
+      },
+      "clouds": {
+        "all": 40
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 5504003,
+      "name": "Fernley",
+      "coord": {
+        "lon": -119.251831,
+        "lat": 39.607971
+      },
+      "main": {
+        "temp": 21.56,
+        "pressure": 1018,
+        "temp_min": 19,
+        "temp_max": 22.78,
+        "humidity": 25
+      },
+      "dt": 1464306160,
+      "wind": {
+        "speed": 2.1,
+        "deg": 330
+      },
+      "rain": {
+        "3h": 0
+      },
+      "clouds": {
+        "all": 40
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 5323810,
+      "name": "Anaheim",
+      "coord": {
+        "lon": -117.914497,
+        "lat": 33.835289
+      },
+      "main": {
+        "temp": 22.63,
+        "pressure": 1015,
+        "humidity": 46,
+        "temp_min": 18,
+        "temp_max": 26.67
+      },
+      "dt": 1464306117,
+      "wind": {
+        "speed": 4.6,
+        "deg": 210,
+        "gust": 7.2
+      },
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "Sky is Clear",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 5407933,
+      "name": "West Covina",
+      "coord": {
+        "lon": -117.93895,
+        "lat": 34.068619
+      },
+      "main": {
+        "temp": 22.88,
+        "pressure": 1016,
+        "humidity": 49,
+        "temp_min": 18,
+        "temp_max": 26.67
+      },
+      "dt": 1464306157,
+      "wind": {
+        "speed": 5.1,
+        "deg": 230,
+        "gust": 7.7
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5339631,
+      "name": "Corona",
+      "coord": {
+        "lon": -117.566437,
+        "lat": 33.87529
+      },
+      "main": {
+        "temp": 23.07,
+        "pressure": 1015,
+        "humidity": 39,
+        "temp_min": 20.56,
+        "temp_max": 26
+      },
+      "dt": 1464306135,
+      "wind": {
+        "speed": 7.2,
+        "deg": 250,
+        "gust": 9.3
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5385955,
+      "name": "Rancho Cucamonga",
+      "coord": {
+        "lon": -117.593109,
+        "lat": 34.1064
+      },
+      "main": {
+        "temp": 23.23,
+        "pressure": 1015,
+        "humidity": 41,
+        "temp_min": 20.56,
+        "temp_max": 26
+      },
+      "dt": 1464306150,
+      "wind": {
+        "speed": 5.1,
+        "deg": 250,
+        "gust": 8.7
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5380698,
+      "name": "Palmdale",
+      "coord": {
+        "lon": -118.116463,
+        "lat": 34.57943
+      },
+      "main": {
+        "temp": 23.8,
+        "pressure": 1012,
+        "humidity": 22,
+        "temp_min": 18,
+        "temp_max": 29
+      },
+      "dt": 1464306149,
+      "wind": {
+        "speed": 7.7,
+        "deg": 250,
+        "gust": 10.8
+      },
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 5387494,
+      "name": "Ridgecrest",
+      "coord": {
+        "lon": -117.670898,
+        "lat": 35.622459
+      },
+      "main": {
+        "temp": 26.74,
+        "pressure": 1012,
+        "humidity": 16,
+        "temp_min": 25.56,
+        "temp_max": 29
+      },
+      "dt": 1464306151,
+      "wind": {
+        "speed": 2.6,
+        "deg": 0,
+        "gust": 7.2
+      },
+      "clouds": {
+        "all": 40
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    }
+  ]
+}

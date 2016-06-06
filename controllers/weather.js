@@ -1,0 +1,1 @@
+// Move logic from routes to this controller

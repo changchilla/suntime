@@ -1,0 +1,24 @@
+<div ng-app="myApp.view1" ng-init="init()" ng-controller="View1Ctrl as view1">
+    <b>Invoice:</b>
+    <div>
+        Latitude: <input type="number" ng-model="currentLat">
+    </div>
+    <div>
+        Longitude: <input type="number" ng-model="currentLong">
+    </div>
+    <div>
+        <button class="btn" ng-click="view1.getSunnyCity()">Get Nearest Sunny City</button>
+    </div>
+    <div>
+        <b>Closest sunny city within driving range:</b> {{data.name}}
+    </div>
+    <div>
+        <b>Celsius:</b> {{data.main.temp}}
+    </div>
+    <div>
+        <b>farenheit:</b> {{convertToFarenheit(data.main.temp)}}
+    </div>
+    <div>
+        {{blah()}}
+    </div>
+</div>

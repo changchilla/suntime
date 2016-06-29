@@ -13,10 +13,10 @@ angular.module('myApp.view1', ['ngRoute', 'getWeatherData', 'temperature'])
 
   $scope.init = function() {
     navigator.geolocation.getCurrentPosition(function(position) {
+      $scope.currentLat = position.coords.latitude;
+      $scope.currentLong = position.coords.longitude;
       loadSunnyCity.getClosestSunnyCity(position.coords.latitude, position.coords.longitude)
         .then(function(data){
-          $scope.currentLat = position.coords.latitude;
-          $scope.currentLong = position.coords.longitude;
           $scope.data = data;
         })
 
